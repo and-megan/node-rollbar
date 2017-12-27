@@ -1,13 +1,13 @@
 {
-  "name": "nodeapp",
+  "name": "Megan's Node App",
   "version": "1.0.0",
-  "main": "nodeApp.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "and-megan",
   "license": "ISC",
-  "description": "",
+  "description": "simple Node.js app to play with Rollbar",
   "dependencies": {
     "express": "^4.16.2",
     "rollbar": "^2.2.7"
